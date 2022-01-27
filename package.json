@@ -1,0 +1,9 @@
+{
+  "name": "pasv1",
+  "description": "API tests practice",
+  "scripts": {
+    "tests": "echo \"Error: no test specified\" && exit 1 "
+  },
+  "author": "Svetlana Carapunarli",
+  "license": "ISC"
+}
